@@ -1,3 +1,9 @@
+# Update:
+Goto https://github.com/disc0ver-csu/csu-thesis.
+Edwardzcn is now actively maintaining a Latex template. Since currently I have no need to write any thesis, this repo is discontinued and any further change will be contributed to Edwardzcn's repo.
+
+This repo is archived.
+
 # 中南大学本科学位论文Tex模版
 
 2019/12/13: I'm still maintaining this project, issues and PRs are welcome. 
